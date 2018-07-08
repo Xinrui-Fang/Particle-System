@@ -1,0 +1,34 @@
+﻿  MOUSE_controlledDlg.cpp
+f:\sophomore 2\foundation of graphics programming\mouse_controlled\mouse_controlled\mouse_controlled\mouse_controlleddlg.cpp(322): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+f:\sophomore 2\foundation of graphics programming\mouse_controlled\mouse_controlled\mouse_controlled\mouse_controlleddlg.cpp(407): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\sophomore 2\foundation of graphics programming\mouse_controlled\mouse_controlled\mouse_controlled\mouse_controlleddlg.cpp(408): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\sophomore 2\foundation of graphics programming\mouse_controlled\mouse_controlled\mouse_controlled\mouse_controlleddlg.cpp(409): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\sophomore 2\foundation of graphics programming\mouse_controlled\mouse_controlled\mouse_controlled\mouse_controlleddlg.cpp(410): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\sophomore 2\foundation of graphics programming\mouse_controlled\mouse_controlled\mouse_controlled\mouse_controlleddlg.cpp(411): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\sophomore 2\foundation of graphics programming\mouse_controlled\mouse_controlled\mouse_controlled\mouse_controlleddlg.cpp(414): warning C4305: “=”: 从“double”到“float”截断
+f:\sophomore 2\foundation of graphics programming\mouse_controlled\mouse_controlled\mouse_controlled\mouse_controlleddlg.cpp(478): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\sophomore 2\foundation of graphics programming\mouse_controlled\mouse_controlled\mouse_controlled\mouse_controlleddlg.cpp(479): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\sophomore 2\foundation of graphics programming\mouse_controlled\mouse_controlled\mouse_controlled\mouse_controlleddlg.cpp(480): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\sophomore 2\foundation of graphics programming\mouse_controlled\mouse_controlled\mouse_controlled\mouse_controlleddlg.cpp(518): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\sophomore 2\foundation of graphics programming\mouse_controlled\mouse_controlled\mouse_controlled\mouse_controlleddlg.cpp(572): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+f:\sophomore 2\foundation of graphics programming\mouse_controlled\mouse_controlled\mouse_controlled\mouse_controlleddlg.cpp(658): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+f:\sophomore 2\foundation of graphics programming\mouse_controlled\mouse_controlled\mouse_controlled\mouse_controlleddlg.cpp(668): warning C4244: “-=”: 从“double”转换到“float”，可能丢失数据
+f:\sophomore 2\foundation of graphics programming\mouse_controlled\mouse_controlled\mouse_controlled\mouse_controlleddlg.cpp(801): warning C4305: “参数”: 从“double”到“GLfloat”截断
+f:\sophomore 2\foundation of graphics programming\mouse_controlled\mouse_controlled\mouse_controlled\mouse_controlleddlg.cpp(802): warning C4305: “参数”: 从“double”到“GLfloat”截断
+f:\sophomore 2\foundation of graphics programming\mouse_controlled\mouse_controlled\mouse_controlled\mouse_controlleddlg.cpp(803): warning C4305: “参数”: 从“double”到“GLfloat”截断
+f:\sophomore 2\foundation of graphics programming\mouse_controlled\mouse_controlled\mouse_controlled\mouse_controlleddlg.cpp(804): warning C4305: “参数”: 从“double”到“GLfloat”截断
+f:\sophomore 2\foundation of graphics programming\mouse_controlled\mouse_controlled\mouse_controlled\mouse_controlleddlg.cpp(808): warning C4305: “参数”: 从“double”到“GLfloat”截断
+f:\sophomore 2\foundation of graphics programming\mouse_controlled\mouse_controlled\mouse_controlled\mouse_controlleddlg.cpp(809): warning C4305: “参数”: 从“double”到“GLfloat”截断
+f:\sophomore 2\foundation of graphics programming\mouse_controlled\mouse_controlled\mouse_controlled\mouse_controlleddlg.cpp(810): warning C4305: “参数”: 从“double”到“GLfloat”截断
+f:\sophomore 2\foundation of graphics programming\mouse_controlled\mouse_controlled\mouse_controlled\mouse_controlleddlg.cpp(811): warning C4305: “参数”: 从“double”到“GLfloat”截断
+f:\sophomore 2\foundation of graphics programming\mouse_controlled\mouse_controlled\mouse_controlled\mouse_controlleddlg.cpp(825): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\sophomore 2\foundation of graphics programming\mouse_controlled\mouse_controlled\mouse_controlled\mouse_controlleddlg.cpp(826): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\sophomore 2\foundation of graphics programming\mouse_controlled\mouse_controlled\mouse_controlled\mouse_controlleddlg.cpp(827): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\sophomore 2\foundation of graphics programming\mouse_controlled\mouse_controlled\mouse_controlled\mouse_controlleddlg.cpp(828): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\sophomore 2\foundation of graphics programming\mouse_controlled\mouse_controlled\mouse_controlled\mouse_controlleddlg.cpp(829): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\sophomore 2\foundation of graphics programming\mouse_controlled\mouse_controlled\mouse_controlled\mouse_controlleddlg.cpp(832): warning C4305: “=”: 从“double”到“float”截断
+f:\sophomore 2\foundation of graphics programming\mouse_controlled\mouse_controlled\mouse_controlled\mouse_controlleddlg.cpp(932): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\sophomore 2\foundation of graphics programming\mouse_controlled\mouse_controlled\mouse_controlled\mouse_controlleddlg.cpp(1040): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\sophomore 2\foundation of graphics programming\mouse_controlled\mouse_controlled\mouse_controlled\mouse_controlleddlg.cpp(1093): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  MOUSE_controlled.vcxproj -> F:\Sophomore 2\Foundation of Graphics Programming\MOUSE_controlled\MOUSE_controlled\Debug\MOUSE_controlled.exe
+  MOUSE_controlled.vcxproj -> F:\Sophomore 2\Foundation of Graphics Programming\MOUSE_controlled\MOUSE_controlled\Debug\MOUSE_controlled.pdb (Full PDB)

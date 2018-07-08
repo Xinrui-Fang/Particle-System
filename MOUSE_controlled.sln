@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MOUSE_controlled", "MOUSE_controlled\MOUSE_controlled.vcxproj", "{234113FD-F58F-4197-9366-804BB411D5ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{234113FD-F58F-4197-9366-804BB411D5ED}.Debug|Win32.ActiveCfg = Debug|Win32
+		{234113FD-F58F-4197-9366-804BB411D5ED}.Debug|Win32.Build.0 = Debug|Win32
+		{234113FD-F58F-4197-9366-804BB411D5ED}.Release|Win32.ActiveCfg = Release|Win32
+		{234113FD-F58F-4197-9366-804BB411D5ED}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
